@@ -1,3 +1,5 @@
 def hacktoberFest()
-    return "Hello `${name}`"
+    return "Hello #{name} 👻 happy coding!"
 end
+
+hacktoberFest("Mochi")
