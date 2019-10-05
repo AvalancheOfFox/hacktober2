@@ -1,3 +1,5 @@
-def hacktoberFest()
-    return "Hello `${name}`"
+def hacktoberFest(name)
+    puts "Hello #{name}"
 end
+
+hacktoberFest("Janet")
